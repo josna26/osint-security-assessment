@@ -1,0 +1,30 @@
+OSINT-FinTech-Security-Assessment/
+│
+├── README.md
+├── docs/
+│   ├── project_overview.md
+│   ├── methodology.md
+│   ├── findings.md
+│   ├── risk_assessment.md
+│
+├── assets/
+│   ├── screenshots/
+│   ├── diagrams/
+│
+├── simulated_data/
+│   ├── company_profile.pdf
+│   ├── employee_list.csv
+│
+└── scripts/   (optional if you automate anything)
+    ├── subdomain_enum.py
+
+=============================================================================================
+
+What is OSINT?
+Open-Source Intelligence (OSINT) is the practise of collecting and analysing information from publicly available sources to produce actionable intelligence. It transforms data from various sources into insights for cyber security, law enforcement, corporate research etc.
+The purpose of OSINT is to understand what information about an organization is exposed publicly and how it might be used by an attacker.
+
+What is Maltego?
+Maltego is a graphical link analysis tool used to uncover, visualize and map relationships between key data points. It represents these relationships visually in the form of graphs, allowing investigators to map connections and identify patterns in publicly available information.
+It works with the help of transforms which automatically gathers information from different online sources.
+

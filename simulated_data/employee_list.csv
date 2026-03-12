@@ -1,0 +1,7 @@
+Employee_ID,Name,Role,Department,Email,Location
+EMP001,Arjun Mehta,CEO,Executive,arjun.mehta@astrafinpay.com,Mumbai
+EMP002,Priya Nair,CTO,Technology,priya.nair@astrafinpay.com,Bangalore
+EMP003,Rahul Sharma,Backend Engineer,Engineering,rahul.sharma@astrafinpay.com,Bangalore
+EMP004,Kavya Patel,Security Analyst,Cybersecurity,kavya.patel@astrafinpay.com,Ahmedabad
+EMP005,Neha Kapoor,HR Manager,Human Resources,neha.kapoor@astrafinpay.com,Delhi
+EMP006,Vikram Singh,DevOps Engineer,Infrastructure,vikram.singh@astrafinpay.com,Pune
