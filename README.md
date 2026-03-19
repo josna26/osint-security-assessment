@@ -37,3 +37,29 @@ A simulated FinTech company, AstraFin Digital Payments Pvt Ltd, is used as the t
 - docs/ → Documentation
 - simulated_data/ → Generated data
 - assets/ → Screenshots
+
+---
+
+## Unique Features
+
+- Interactive Email Generator  
+  - Generates employee email addresses based on user input  
+  - Includes input validation and formatting  
+
+- Interactive Risk Scoring System  
+  - Evaluates OSINT exposure through user input  
+  - Calculates overall risk score and level dynamically  
+
+---
+
+## How to Run
+
+### Email Generator
+```bash
+python scripts/email_generator.py
+```
+
+### Risk Assessment Tool
+```bash
+python scripts/risk_score.py
+```
