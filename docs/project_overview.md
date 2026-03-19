@@ -7,6 +7,8 @@ The investigation focuses on a simulated financial technology company named Astr
 
 The goal of this project is to demonstrate how attackers or security analysts can map an organization's digital footprint using publicly accessible sources.
 
+---
+
 ## Objectives
 
 • Demonstrate OSINT investigation techniques  
@@ -14,6 +16,8 @@ The goal of this project is to demonstrate how attackers or security analysts ca
 • Visualize relationships between digital assets  
 • Assess potential security risks  
 • Propose security recommendations
+
+---
 
 ## Simulated Organization
 
@@ -30,18 +34,12 @@ support.astrafinpay.com
 hr.astrafinpay.com  
 dev.astrafinpay.com  
 
-## Tools Planned
-
-Maltego  
-TheHarvester  
-WHOIS Lookup  
-DNS Enumeration Tools  
+---
 
 ## Project Structure
 
 The repository is organized as follows:
 
 - docs → project documentation
-- assets → screenshots and diagrams
+- assets → screenshots
 - simulated_data → generated company data
-- scripts → optional automation scripts
