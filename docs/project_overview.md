@@ -43,3 +43,4 @@ The repository is organized as follows:
 - docs → project documentation
 - assets → screenshots
 - simulated_data → generated company data
+- scripts → python scripts for automation
