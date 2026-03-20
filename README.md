@@ -15,7 +15,7 @@ A simulated FinTech company, AstraFin Digital Payments Pvt Ltd, is used as the t
 
 ---
 
-## 🛠️ Tool Used
+## 🛠️ Tools Used
 - Maltego (For relationship mapping)
 
 ---
@@ -32,6 +32,7 @@ A simulated FinTech company, AstraFin Digital Payments Pvt Ltd, is used as the t
 ## 📊 Sample Investigation Graph
 
 <img src="assets/screenshot.jpeg" width="500">
+*Figure: OSINT relationship mapping using Maltego*
 
 ---
 
